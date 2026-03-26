@@ -10,7 +10,7 @@ import { RouterLink, RouterLinkActive } from '@angular/router';
     <nav class="navbar">
       <div class="container">
         <div class="nav-brand">
-          <h2>DevAutomation Platform</h2>
+          <h2>AutoDev</h2>
         </div>
         <ul class="nav-menu">
           <li class="nav-item">
